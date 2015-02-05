@@ -1,3 +1,9 @@
+PATH
+  remote: components
+  specs:
+    mail_subscription (0.0.1)
+      rails (~> 4.1.9)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -111,6 +117,7 @@ DEPENDENCIES
   coffee-rails (~> 4.0.0)
   jbuilder (~> 2.0)
   jquery-rails
+  mail_subscription!
   pg
   rails (= 4.1.9)
   sass-rails (~> 4.0.3)
