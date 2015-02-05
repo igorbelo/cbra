@@ -1,28 +1,9 @@
-== README
+== Component-Based Rails Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an example of Component-Based Rails Application.
+I'll try to keep up this repository, while as i learn more about CBRA.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Some links about **CBRA**:
+* http://www.confreaks.com/videos/3344-railsconf-refactoring-towards-component-based-rails-architectures
+* http://pivotallabs.com/strict-separation-component-based-rails/
+* https://speakerdeck.com/benjaminleesmith/how-i-architected-my-big-rails-app-for-success-confoo-2014
