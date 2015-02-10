@@ -39,4 +39,7 @@ gem 'spring',        group: :development
 
 path './' do
   gem 'core'
+  gem 'frontend'
 end
+
+gem 'pry'
