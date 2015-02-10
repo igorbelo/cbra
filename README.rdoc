@@ -1,7 +1,7 @@
 == Component-Based Rails Application
 
 This is an example of Component-Based Rails Application, a.k.a CBRA.
-I'll try to keep up this repository, while as i learn more about CBRA.
+I'll try to keep up this repository as i learn more about CBRA.
 
 Some links about *CBRA*:
 * http://www.confreaks.com/videos/3344-railsconf-refactoring-towards-component-based-rails-architectures
