@@ -2,13 +2,6 @@ PATH
   remote: .
   specs:
     core (0.0.1)
-      email_signup
-      rails (~> 4.1.9)
-
-PATH
-  remote: components
-  specs:
-    email_signup (0.0.1)
       rails (~> 4.1.9)
 
 GEM
@@ -91,5 +84,4 @@ PLATFORMS
 
 DEPENDENCIES
   core!
-  email_signup!
   sqlite3
