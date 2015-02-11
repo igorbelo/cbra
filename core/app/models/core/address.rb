@@ -1,5 +1,5 @@
 module Core
-  class Adress < ActiveRecord::Base
+  class Address < ActiveRecord::Base
     belongs_to :customer
   end
 end
