@@ -1,7 +1,7 @@
-class CreateCoreAdresses < ActiveRecord::Migration
+class CreateCoreAddresses < ActiveRecord::Migration
   def change
-    create_table :core_adresses do |t|
-      t.string :zip
+    create_table :core_addresses do |t|
+      t.integer :zip
       t.integer :number
       t.references :customer, index: true
 
