@@ -3,7 +3,7 @@ class CreateCoreOrderItems < ActiveRecord::Migration
     create_table :core_order_items do |t|
       t.references :order, index: true
       t.references :product, index: true
-      t.number :quantity
+      t.integer :quantity
 
       t.timestamps
     end
