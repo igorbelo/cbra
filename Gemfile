@@ -38,8 +38,5 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 path './' do
-  gem 'core'
-  gem 'frontend'
+  gem 'core', '~> 0.0.1'
 end
-
-gem 'pry'
