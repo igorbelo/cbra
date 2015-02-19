@@ -16,5 +16,3 @@ gemspec
 path '../' do
   gem 'core'
 end
-
-gem 'pry'

@@ -1,3 +1,3 @@
 Frontend::Engine.routes.draw do
-  resources :email_signups
+  resources :products
 end

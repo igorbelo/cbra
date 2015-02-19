@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     frontend (0.0.2)
-      core
+      core (~> 0.0.1)
       rails (~> 4.1.9)
 
 PATH
