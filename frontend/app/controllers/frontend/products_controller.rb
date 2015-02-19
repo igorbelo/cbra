@@ -6,7 +6,7 @@ module Frontend
 
     # GET /products
     def index
-      @products = Core::Catalog::Product.all
+      @products = Product.all
     end
 
     # GET /products/1
