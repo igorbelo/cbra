@@ -39,4 +39,5 @@ gem 'spring',        group: :development
 
 path './' do
   gem 'core', '~> 0.0.1'
+  gem 'frontend', '~> 0.0.1'
 end
